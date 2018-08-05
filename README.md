@@ -6,4 +6,4 @@ Implementation ANN, CNN, RNN and GAN
 # License
 **MIT**
 
-# <font size="3" color="red">UT_ACM STUDENT CHAPTER</font>
+<font size="3" color="red">UT_ACM STUDENT CHAPTER</font>
